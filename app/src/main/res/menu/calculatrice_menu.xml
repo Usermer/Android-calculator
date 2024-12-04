@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itStandard"
+        android:title="Standard"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/itScientifique"
+        android:title="Scientifique"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/itGraphique"
+        android:title="Graphique"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/itProg"
+        android:title="Programmeur"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/itCalculD"
+        android:title="Calcul de la Date"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/itDevise"
+        android:title="Devise"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/itVolume"
+        android:title="Volume"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/itLongueur"
+        android:title="Longueur"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/itPoidsMAsse"
+        android:title="Poids et Masse"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/itTemperature"
+        android:title="Temperature"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/itEnergie"
+        android:title="Energie"
+        app:showAsAction="collapseActionView"/>
+</menu>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="rouge">#9d1c3a</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03D1C5</color>
+    <color name="red">#B22222</color>
+    <color name="orane">#FF8C00</color>
+    <color name="darkGrey">#202020</color>
+    <color name="button_background">#FF6200EE</color>
+</resources>
